@@ -1,0 +1,90 @@
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.pdb
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.xml
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.dll.manifest
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.vsto
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.ribb.resources
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.Resources.resources
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.vbproj.GenerateResource.Cache
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.xml
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.pdb
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Newtonsoft.Json.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.Extensions.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.Primitives.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Runtime.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Threading.Tasks.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.vbprojResolveAssemblyReference.cache
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\DotNetOpenAuth.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Samples.Helper.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Zlib.Portable.dll
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.FirstRun.resources
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.SettDlg.resources
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.ErrorDlg.resources
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.AboutDlg.resources
+D:\Code\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.LicenseDlg.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.vbprojResolveAssemblyReference.cache
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.AboutDlg.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.ErrorDlg.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.FirstRun.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.LicenseDlg.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.ribb.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.SettDlg.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.Resources.resources
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.vbproj.GenerateResource.Cache
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.pdb
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.dll.manifest
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.vsto
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\DotNetOpenAuth.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Calendar.v3.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Newtonsoft.Json.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.Extensions.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.Primitives.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.WebRequest.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Runtime.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Threading.Tasks.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Zlib.Portable.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.pdb
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\OutlookCalendarSync.dll.config
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.PlatformServices.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\log4net.dll
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.pdb
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Calendar.v3.pdb
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.Calendar.v3.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.PlatformServices.pdb
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Google.Apis.PlatformServices.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\log4net.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Newtonsoft.Json.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.Extensions.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\System.Net.Http.Primitives.xml
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\bin\Debug\Zlib.Portable.pdb
+Q:\2. VB\OutlookCalendarSync\OutlookCalendarSync\obj\Debug\OutlookCalendarSync.vbproj.App.config

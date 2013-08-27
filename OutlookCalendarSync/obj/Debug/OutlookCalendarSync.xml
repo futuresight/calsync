@@ -1,0 +1,85 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OutlookCalendarSync
+</name>
+</assembly>
+<members>
+<member name="M:OutlookCalendarSync.ThisAddIn.#ctor(Microsoft.Office.Tools.Outlook.Factory,System.IServiceProvider)">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.Initialize">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.FinishInitialization">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.InitializeDataBindings">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.InitializeCachedData">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.InitializeData">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.BindToData">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.StartCaching(System.String)">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.StopCaching(System.String)">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.IsCached(System.String)">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.BeginInitialization">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.EndInitialization">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.InitializeControls">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.InitializeComponents">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.NeedsFill(System.String)">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.OnShutdown">
+</member><member name="T:OutlookCalendarSync.ThisAddIn">
+</member><member name="M:OutlookCalendarSync.Globals.#ctor">
+</member><member name="T:OutlookCalendarSync.Globals">
+</member><member name="M:OutlookCalendarSync.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+</member><member name="T:OutlookCalendarSync.ThisRibbonCollection">
+</member><member name="M:OutlookCalendarSync.ThisFormRegionCollection.#ctor(System.Collections.Generic.IList{Microsoft.Office.Tools.Outlook.IFormRegion})">
+</member><member name="T:OutlookCalendarSync.ThisFormRegionCollection">
+</member><member name="M:OutlookCalendarSync.WindowFormRegionCollection.#ctor(System.Collections.Generic.IList{Microsoft.Office.Tools.Outlook.IFormRegion})">
+</member><member name="T:OutlookCalendarSync.WindowFormRegionCollection">
+</member><member name="M:OutlookCalendarSync.ThisAddIn.SyncCalendars(System.Boolean)">
+	<summary> Fetches a list of calendars from Google for later use and adds missing ones either way </summary>
+</member><member name="M:OutlookCalendarSync.ThisAddIn.SyncAppointments(Microsoft.Office.Interop.Outlook.Folder,System.Boolean)">
+	<summary>Synchronise all appointments in a given calendar</summary>
+</member><member name="M:OutlookCalendarSync.ThisAddIn.SyncAppointment(Google.Apis.Calendar.v3.Data.Event,Microsoft.Office.Interop.Outlook.AppointmentItem)">
+	<summary>Synchronise a single appointment</summary>
+</member><member name="M:OutlookCalendarSync.ThisAddIn.HandleDeleteAppointment(System.Object,System.Boolean@)">
+	<summary>Handle the delete event of an outlook appointment</summary>
+</member><member name="M:OutlookCalendarSync.ThisAddIn.DisplayList(System.Collections.Generic.IList{Google.Apis.Calendar.v3.Data.CalendarListEntry})">
+	<summary> Displays all calendars.</summary>
+</member><member name="M:OutlookCalendarSync.ThisAddIn.DisplayFirstCalendarEvents(Google.Apis.Calendar.v3.Data.CalendarListEntry)">
+	<summary>Displays the calendar's events.</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.infoIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.instruct">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.rawIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.settingsIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.syncIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OutlookCalendarSync.My.Resources.Resources.syncingIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:OutlookCalendarSync.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
